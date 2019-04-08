@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Training 3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Training 3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Training 3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="gettingNames.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gettingNames.h" />
+		<Unit filename="loadFunctions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="loadFunctions.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="playFunctions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="playFunctions.h" />
+		<Unit filename="saveFunctions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="saveFunctions.h" />
+		<Unit filename="testingPoints.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="testingPoints.h" />
+		<Unit filename="testingPointsComputer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="testingPointsComputer.h" />
+		<Unit filename="undoRedoFunctions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="undoRedoFunctions.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,343 @@
+# depslib dependency file v1.0
+1512844175 source:z:\csed\academic\1st year\1st term\programming-1\project\training 3\main.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"playFunctions.h"
+
+1512939728 z:\csed\academic\1st year\1st term\programming-1\project\training 3\playfunctions.h
+
+1513899755 source:z:\csed\academic\1st year\1st term\programming-1\project\training 6\main.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"playFunctions.h"
+	"saveFunctions.h"
+	"undoRedoFunctions.h"
+
+1513824482 z:\csed\academic\1st year\1st term\programming-1\project\training 6\playfunctions.h
+
+1513839635 source:z:\csed\academic\1st year\1st term\programming-1\project\training 6\savefunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1513839671 z:\csed\academic\1st year\1st term\programming-1\project\training 6\savefunctions.h
+
+1513900119 source:z:\csed\academic\1st year\1st term\programming-1\project\training 6\playfunctions.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"playFunctions.h"
+	"saveFunctions.h"
+	"undoRedoFunctions.h"
+
+1513840110 source:z:\csed\academic\1st year\1st term\programming-1\project\training 6\loadfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1513616058 z:\csed\academic\1st year\1st term\programming-1\project\training 6\loadfunctions.h
+
+1513785921 z:\csed\academic\1st year\1st term\programming-1\project\training 6\undoredofunctions.h
+
+1513880594 source:z:\csed\academic\1st year\1st term\programming-1\project\training 6\undoredofunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1513954182 source:z:\csed\academic\1st year\1st term\programming-1\project\main project\loadfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1513968178 source:z:\csed\academic\1st year\1st term\programming-1\project\main project\main.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"playFunctions.h"
+	"saveFunctions.h"
+	"undoRedoFunctions.h"
+	"testingPoints.h"
+	"gettingNames.h"
+	"testingPointsComputer.h"
+
+1513936440 z:\csed\academic\1st year\1st term\programming-1\project\main project\playfunctions.h
+
+1513953941 z:\csed\academic\1st year\1st term\programming-1\project\main project\savefunctions.h
+
+1513785921 z:\csed\academic\1st year\1st term\programming-1\project\main project\undoredofunctions.h
+
+1513954073 source:z:\csed\academic\1st year\1st term\programming-1\project\main project\savefunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1513880594 source:z:\csed\academic\1st year\1st term\programming-1\project\main project\undoredofunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1513978482 source:z:\csed\academic\1st year\1st term\programming-1\project\main project\playfunctions.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"playFunctions.h"
+	"saveFunctions.h"
+	"undoRedoFunctions.h"
+	"testingPoints.h"
+	"gettingNames.h"
+	"testingPointsComputer.h"
+
+1513963819 source:z:\csed\academic\1st year\1st term\programming-1\project\main project\gettingnames.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+
+1513959369 z:\csed\academic\1st year\1st term\programming-1\project\main project\testingpoints.h
+
+1513963674 z:\csed\academic\1st year\1st term\programming-1\project\main project\gettingnames.h
+
+1513978171 source:z:\csed\academic\1st year\1st term\programming-1\project\main project\testingpoints.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"playFunctions.h"
+	"saveFunctions.h"
+	"undoRedoFunctions.h"
+	"gettingNames.h"
+
+1513975106 source:z:\csed\academic\1st year\1st term\programming-1\project\main project\testingpointscomputer.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"playFunctions.h"
+	"saveFunctions.h"
+	"undoRedoFunctions.h"
+	"gettingNames.h"
+	"testingPoints.h"
+
+1513975313 z:\csed\academic\1st year\1st term\programming-1\project\main project\testingpointscomputer.h
+
+1513963819 source:z:\csed\academic\1st year\1st term\programming-1\project\project_19_v1\main project\gettingnames.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+
+1513954182 source:z:\csed\academic\1st year\1st term\programming-1\project\project_19_v1\main project\loadfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1513968178 source:z:\csed\academic\1st year\1st term\programming-1\project\project_19_v1\main project\main.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"playFunctions.h"
+	"saveFunctions.h"
+	"undoRedoFunctions.h"
+	"testingPoints.h"
+	"gettingNames.h"
+	"testingPointsComputer.h"
+
+1513936440 z:\csed\academic\1st year\1st term\programming-1\project\project_19_v1\main project\playfunctions.h
+
+1513953941 z:\csed\academic\1st year\1st term\programming-1\project\project_19_v1\main project\savefunctions.h
+
+1513785921 z:\csed\academic\1st year\1st term\programming-1\project\project_19_v1\main project\undoredofunctions.h
+
+1513959369 z:\csed\academic\1st year\1st term\programming-1\project\project_19_v1\main project\testingpoints.h
+
+1513963674 z:\csed\academic\1st year\1st term\programming-1\project\project_19_v1\main project\gettingnames.h
+
+1513975313 z:\csed\academic\1st year\1st term\programming-1\project\project_19_v1\main project\testingpointscomputer.h
+
+1513978661 source:z:\csed\academic\1st year\1st term\programming-1\project\project_19_v1\main project\playfunctions.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"playFunctions.h"
+	"saveFunctions.h"
+	"undoRedoFunctions.h"
+	"testingPoints.h"
+	"gettingNames.h"
+	"testingPointsComputer.h"
+
+1513954073 source:z:\csed\academic\1st year\1st term\programming-1\project\project_19_v1\main project\savefunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1513978171 source:z:\csed\academic\1st year\1st term\programming-1\project\project_19_v1\main project\testingpoints.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"playFunctions.h"
+	"saveFunctions.h"
+	"undoRedoFunctions.h"
+	"gettingNames.h"
+
+1513975106 source:z:\csed\academic\1st year\1st term\programming-1\project\project_19_v1\main project\testingpointscomputer.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"playFunctions.h"
+	"saveFunctions.h"
+	"undoRedoFunctions.h"
+	"gettingNames.h"
+	"testingPoints.h"
+
+1513880594 source:z:\csed\academic\1st year\1st term\programming-1\project\project_19_v1\main project\undoredofunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1513963819 source:z:\computer & systems engineering department (csed)\academic\1st year\first term\programming-1\project\project_19_v1\main project\gettingnames.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+
+1513954182 source:z:\computer & systems engineering department (csed)\academic\1st year\first term\programming-1\project\project_19_v1\main project\loadfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1513968178 source:z:\computer & systems engineering department (csed)\academic\1st year\first term\programming-1\project\project_19_v1\main project\main.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"playFunctions.h"
+	"saveFunctions.h"
+	"undoRedoFunctions.h"
+	"testingPoints.h"
+	"gettingNames.h"
+	"testingPointsComputer.h"
+
+1513936440 z:\computer & systems engineering department (csed)\academic\1st year\first term\programming-1\project\project_19_v1\main project\playfunctions.h
+
+1513953941 z:\computer & systems engineering department (csed)\academic\1st year\first term\programming-1\project\project_19_v1\main project\savefunctions.h
+
+1513785921 z:\computer & systems engineering department (csed)\academic\1st year\first term\programming-1\project\project_19_v1\main project\undoredofunctions.h
+
+1513959369 z:\computer & systems engineering department (csed)\academic\1st year\first term\programming-1\project\project_19_v1\main project\testingpoints.h
+
+1513963674 z:\computer & systems engineering department (csed)\academic\1st year\first term\programming-1\project\project_19_v1\main project\gettingnames.h
+
+1513975313 z:\computer & systems engineering department (csed)\academic\1st year\first term\programming-1\project\project_19_v1\main project\testingpointscomputer.h
+
+1513954073 source:z:\computer & systems engineering department (csed)\academic\1st year\first term\programming-1\project\project_19_v1\main project\savefunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1513978171 source:z:\computer & systems engineering department (csed)\academic\1st year\first term\programming-1\project\project_19_v1\main project\testingpoints.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"playFunctions.h"
+	"saveFunctions.h"
+	"undoRedoFunctions.h"
+	"gettingNames.h"
+
+1513975106 source:z:\computer & systems engineering department (csed)\academic\1st year\first term\programming-1\project\project_19_v1\main project\testingpointscomputer.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"playFunctions.h"
+	"saveFunctions.h"
+	"undoRedoFunctions.h"
+	"gettingNames.h"
+	"testingPoints.h"
+
+1513880594 source:z:\computer & systems engineering department (csed)\academic\1st year\first term\programming-1\project\project_19_v1\main project\undoredofunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
