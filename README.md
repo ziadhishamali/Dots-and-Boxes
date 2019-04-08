@@ -1,2 +1,2 @@
-# Dots-and-Boxes
+# Dots and Boxes
 It's a game built using C programming language,  -Dots and boxes game with two modes (vs Player and vs Computer), it has two difficulty levels (beginner and expert).  -The beginner mode has a (2x2) grid for easier understanding of the game and practicing your skills, while the expert mode has a (5x5) grid for a more challenging game.  -We’ve implemented a (vs Computer) mode with an AI for a more challenging game when you go against the computer.
